@@ -1,0 +1,7 @@
+print("========================================")
+print(" MI PRIMER REPOSITORIO EN GIT Y GITHUB")
+print("========================================")
+print("Nombre: Gonzalo Richard Gutierrez Gutierrez")
+print("Carrera: Ingeniería de Sistemas")
+print("Semestre: Primero")
+print("Estoy aprendiendo Git y GitHub")
